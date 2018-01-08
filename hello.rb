@@ -1,2 +1,4 @@
 puts "hello"
+puts "hi"
+
 
